@@ -42,7 +42,7 @@ This script was created to:
 Run it directly with Python:
 
 ```bash
-python matrix_elimination.py
+python main.py
 ````
 
 Follow the prompts:
