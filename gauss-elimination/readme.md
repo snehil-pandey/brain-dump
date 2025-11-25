@@ -60,4 +60,4 @@ Follow the prompts:
 * Designed for clarity, not speed optimization
 * Perfect for Linear Algebra assignments or practice
 
-Just tell me!
+Just tell me! If you have somethong more mathcodical.
