@@ -1,6 +1,6 @@
 # Last Day to Cross a Flooded Grid &mdash; My Thinking Process
 
-This is my step-by-step explanation on how I tackled the "Last Day to Cross" problem. It's a grid where cells flood day by day, and I need to find the last day you can walk from top row to bottom row on land (4 directions: up/down/left/right).  
+This is my step-by-step explanation on how I tackled the "Last Day to Cross"[<sup>\[1\]</sup>](https://leetcode.com/problems/last-day-where-you-can-still-cross/ "Problem Link") problem. It's a grid where cells flood day by day, and I need to find the last day you can walk from top row to bottom row on land (4 directions: up/down/left/right).  
 
 ## Problem Quick Recap
 - Grid: `row` x `col`, starts all land.
